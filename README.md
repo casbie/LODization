@@ -1,0 +1,3 @@
+- LODredlist.py: To change the data from csv to rdf
+- RedList.csv: source data
+- Taiwan_Redlist.rdf: target data
